@@ -1,6 +1,6 @@
 # Hangman Game in Python
 
-![Hangman Game](hangman_game_screenshot.png)
+![Hangman Game](https://github.com/Manish-Sudhir/Hangman/blob/main/images/game.png?raw=true "hangman_game_screenshot")
 
 ## Overview
 
